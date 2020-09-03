@@ -8,4 +8,6 @@ featuredimage: /img/barbarossa.jpg
 tags:
   - lipsum text_placheholder placeholder culture
 ---
+![Barbarosa](/img/barbarossa.jpg "Operation Barbarosa")
+
 Lorem ipsum, or commonly referred as "Lipsum" is a text placeholder for everyone to use when they don't have anything in mind and want to fill in a text inside paragraph.
